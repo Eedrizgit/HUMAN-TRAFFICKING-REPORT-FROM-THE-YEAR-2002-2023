@@ -1,7 +1,7 @@
 # HUMAN-TRAFFICKING-REPORT-FROM-THE-YEAR-2002-2023
-Despite ongoing global efforts, the true scale and dynamics of human trafficking remain difficult to quantify and respond to effectively. The absence of consolidated, analytical insights into when, how, and whom trafficking affects most severely limits prevention strategies and policy responses.
+# Despite ongoing global efforts, the true scale and dynamics of human trafficking remain difficult to quantify and respond to effectively. The absence of consolidated, analytical insights into when, how, and whom trafficking affects most severely limits prevention strategies and policy responses.
 
-![Dashboard Preview](https://github.com/Eedrizgit/Healthcare-Analysis-for-the-Period-2019-2024/blob/main/task%204%20dashboard%20(2).png)
+![Dashboard Preview](https://github.com/Eedrizgit/HUMAN-TRAFFICKING-REPORT-FROM-THE-YEAR-2002-2023/blob/main/task%2033A%20DASHBOARD%20Screenshot%20.png))
 
 # **Evaluation of Human-Trafficking**
 
